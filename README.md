@@ -1,5 +1,9 @@
 # MIKEY-SAKKE
-Some people may be looking for Mikey-Sakke specifically by name. Mikey is primarily just the transport mechanism, with the signing/ verification being done by ECCSI and the encryption/ decryption of an SSV (Shared Secret Value) being done by SAKKE. 
+Some people may be looking for Mikey-Sakke specifically by name so I created this page.
+
+Mikey is primarily just a transport mechanism (one of a number that could be used to transport ECCSI/ SAKKE information). The __clever stuff__ Signing/ Verification of messages using ECCSI (Elliptic Curve-Based Certificateless Signatures for Identity-Based Encryption) and the Encryption/ Decryption of an SSV (Shared Secret Value) using SAKKE, is covered in the ECCSI-SAKKE project below. 
+
+To generate Key Material for Mikey-Sakke clients (for whatever the flavour of Mikey-Sakke stack you decide upon) the KMS project listed below can be referenced.
 
 ECCSI-SAKKE
 -----------
