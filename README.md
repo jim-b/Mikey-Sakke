@@ -19,7 +19,7 @@ For KMS (Key Management Server) code, that generates Mikey-Sakke Key Material th
   
 Other implemntators
 -------------------
-If your generally looking at open source Mikey-Sakke implementations, you may also consider:
+If you're generally looking at open source Mikey-Sakke implementations, you may also consider:
 
   https://securechorus.org
 
