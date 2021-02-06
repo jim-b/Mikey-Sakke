@@ -16,3 +16,13 @@ KMS
 For KMS (Key Management Server) code, that generates Mikey-Sakke Key Material that clients can use, refer to:
 
   https://github.com/jim-b/KMS
+  
+Other implemntators
+-------------------
+If your generally looking at open source Mikey-Sakke implementations, you may also consider:
+
+  https://securechorus.org
+
+and at their code at:
+
+  https://bitbucket.org/securechorus/workspace/repositories
